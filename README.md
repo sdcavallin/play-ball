@@ -1,2 +1,2 @@
 # Play Ball
-Play Ball is a cutting-edge, interactive desktop game that uses modern multi-layering metrics and technology to immerse players in the exhilarating thrill of competitive bouncing.
+Desktop game with a bouncy ball and a score counter implemented using Java AWT/Swing.
